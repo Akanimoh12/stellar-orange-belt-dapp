@@ -307,7 +307,7 @@ The project includes `vercel.json` for SPA routing.
 
 ### Live Demo
 
-> 🔗 **Live URL**: `__REPLACE_WITH_VERCEL_URL__`
+> 🔗 **Live URL**: `https://stellar-orange-belt-dapp.vercel.app/`
 
 ---
 
@@ -315,7 +315,7 @@ The project includes `vercel.json` for SPA routing.
 
 ### Demo Video
 
-> 🎬 **Video URL**: `__REPLACE_WITH_VIDEO_URL__`
+> 🎬 **Video URL**: `https://www.loom.com/share/ac3e04564ff94cb48597b070884e8937`
 
 The demo video covers:
 1. Connecting a wallet (Freighter/xBull)
@@ -328,7 +328,7 @@ The demo video covers:
 
 ### Screenshots
 
-> Add screenshots to `screenshot_of_application/` folder.
+> Added screenshots to `screenshot_of_application/` folder.
 
 ---
 
@@ -346,13 +346,13 @@ The demo video covers:
   - 24 tests across 3 suites (cache, helpers, app component)
 - [x] **README fully completed**
   - Features, tech stack, structure, setup, contract API, testing, deployment
-- [ ] **Demo video (1 min)**
-  - ``
+- [x] **Demo video (1 min)**
+  - `https://www.loom.com/share/ac3e04564ff94cb48597b070884e8937`
 - [x] **3+ meaningful commits**
   - Initial scaffold, contract + services, UI + tests
-- [ ] **Live demo on Vercel**
-  - ``
-- [ ] **Screenshot of passing tests**
+- [x] **Live demo on Vercel**
+  - `https://stellar-orange-belt-dapp.vercel.app/`
+- [x] **Screenshot of passing tests**
   - Added to `screenshot_of_application/`
 
 ### Contract Details
